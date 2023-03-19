@@ -26,6 +26,8 @@ I've been a professional developer for over 10 years focused in .Net, MS SQL, An
 ### Badges
 
 <a href="https://github.com/jbridenthal" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbridenthal&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b120fafe-59dd-46f3-ab13-76147d67d2b4" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ee14e881-5d71-4380-acae-513735404da1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <b>Top Repositories</b>
 
